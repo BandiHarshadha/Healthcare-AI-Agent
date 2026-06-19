@@ -1,0 +1,10 @@
+{"input":"Name Rahul age 25 symptoms fever and cough","expected":"Possible viral infection, flu, or respiratory infection. Consult a doctor if symptoms continue.","group":"adult"}
+{"input":"Name Priya age 21 symptoms headache","expected":"Possible stress, migraine, dehydration, or fever-related headache.","group":"adult"}
+{"input":"Name Ravi age 45 symptoms chest pain","expected":"Emergency symptoms detected. Please contact emergency services or visit the nearest hospital immediately.","group":"adult"}
+{"input":"Name Anu age 30 symptoms stomach pain","expected":"Possible indigestion, acidity, infection, or other abdominal issue. Medical consultation is recommended.","group":"adult"}
+{"input":"Name Kiran age 19 symptoms cough fever","expected":"General Physician","group":"young_adult"}
+{"input":"Name Meena age 35 symptoms skin rash","expected":"Dermatologist","group":"adult"}
+{"input":"Name Arjun age 40 symptoms breathing difficulty","expected":"Emergency","group":"adult"}
+{"input":"Name Sita age 28 symptoms migraine","expected":"Neurologist / General Physician","group":"adult"}
+{"input":"Name John age 50 symptoms vomiting stomach pain","expected":"Gastroenterologist","group":"adult"}
+{"input":"Name Sara age 22 symptoms unknown problem","expected":"Please consult a healthcare professional.","group":"young_adult"}
